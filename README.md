@@ -1,1 +1,1 @@
-# Debug <b>ReadMe<b*> text
+# Debug ReadMe text
